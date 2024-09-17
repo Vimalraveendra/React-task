@@ -7,7 +7,7 @@ To run this project, install it locally using npm/yarn.
 
 1.Clone this repo.
 
-2.cd codeTask.
+2.cd react-task.
 
 3.Run yarn install.
 
